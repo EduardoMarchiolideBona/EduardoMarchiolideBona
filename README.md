@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello, my name is Eduardo Marchioli de Bona
+<h2>Bio:</h2>
+<p>Curso técnico em Informática (em andamento) - SATC <br></br>
+16 Anos <br></br>
+Criciúma-SC</p>
 
-<!--
-**EduardoMarchioli-py/EduardoMarchioli-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Ferramnetas Utilizadas: </h2>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" heigth="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" heigth="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" heigth="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" heigth="40"/>
+                  
+<h2>Contatos:</h2>
+<div>
+<a href="https://instagram.com/edudunk" target="_blank"><img loading="lazy"
+src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-thebadge&logo=instagram&logoColor=white" target="_blank"></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h2>Minhas Estatísticas: </h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoMarchiolideBona&theme=dark&show_icons=true)
