@@ -1,7 +1,7 @@
 ### Hello, my name is Eduardo Marchioli de Bona
 <h2></h2>
 <p><h6>Curso técnico em Informática (em andamento) - SATC <br></br>
-16 Anos <br></br>
+17 Anos <br></br>
 Criciúma-SC</h6></p>
 
 <h2>Ferramnetas Utilizadas: </h2>
